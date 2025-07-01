@@ -17,6 +17,3 @@ Authorization: Bearer {{"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OD
   "startDate": "2024-02-01T00:00:00.000Z",
   "paymentMethod": "Credit Card"
 }
-
-
-
